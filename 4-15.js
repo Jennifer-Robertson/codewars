@@ -7,5 +7,4 @@ function divisors(integer) {
       }
     }
     return (arr.length) ? arr : `${integer} is prime`
-    
-  };
+      };
