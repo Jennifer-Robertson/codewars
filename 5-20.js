@@ -10,6 +10,7 @@
    // Pseudo Code
 //make an obj to store counts, use filter to make new arr
 
+
 function deleteNth(arr,n){
     let obj = {};
   
